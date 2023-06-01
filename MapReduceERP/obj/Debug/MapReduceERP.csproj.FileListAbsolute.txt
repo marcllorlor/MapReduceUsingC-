@@ -1,0 +1,11 @@
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\bin\Debug\MapReduceERP.exe.config
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\bin\Debug\MapReduceERP.exe
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\bin\Debug\MapReduceERP.pdb
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\obj\Debug\MapReduceERP.csproj.AssemblyReference.cache
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\obj\Debug\MapReduceERP.csproj.SuggestedBindingRedirects.cache
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\obj\Debug\MapReduceERP.FrmMain.resources
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\obj\Debug\MapReduceERP.Properties.Resources.resources
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\obj\Debug\MapReduceERP.csproj.GenerateResource.cache
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\obj\Debug\MapReduceERP.csproj.CoreCompileInputs.cache
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\obj\Debug\MapReduceERP.exe
+C:\DAM2\ERP\MapReduceERP\MapReduceERP\obj\Debug\MapReduceERP.pdb
